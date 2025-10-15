@@ -1,0 +1,11 @@
+jupyter
+pydantic<2.0
+langchain-huggingface
+chromadb
+transformers
+huggingface-hub
+tokenizers
+langchain
+langchain-community
+openai
+torch
