@@ -9,3 +9,6 @@ langchain
 langchain-community
 openai
 torch
+llama-stack
+sentencepiece
+protobuf
