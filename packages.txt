@@ -12,3 +12,4 @@ torch
 llama-stack
 sentencepiece
 protobuf
+langchain_ollama
