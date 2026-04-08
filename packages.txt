@@ -13,3 +13,6 @@ llama-stack
 sentencepiece
 protobuf
 langchain_ollama
+pypdf
+"unstructured[all-docs]"
+langchain-unstructured
