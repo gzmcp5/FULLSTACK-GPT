@@ -16,3 +16,4 @@ langchain_ollama
 pypdf
 "unstructured[all-docs]"
 langchain-unstructured
+streamlit
